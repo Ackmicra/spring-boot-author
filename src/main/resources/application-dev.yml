@@ -1,0 +1,6 @@
+spring:
+  redis:
+    database: 0
+    host: 140.143.124.166 # Redis服务器地址
+    port: 6380 # Redis服务器连接端口
+    password: dhcc_redis#0713
